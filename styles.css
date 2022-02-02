@@ -1,1 +1,2 @@
-  body {background-image: url("bg.png");background-repeat: repeat-x;}
+ #father{width: 200px;border: 1px solid orange;}
+ #son{margin: 25px 50px 100px 10px;height: 50px;border: 1px dashed blue;}
