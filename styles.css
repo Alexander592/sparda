@@ -1,1 +1,6 @@
-  body {background-image: url("bg.png");background-repeat: repeat-x;}
+#elem {
+width: 300px;
+border: 1px solid red;
+padding: 10px 20px 30px 30px; /* сверху справа снизу слева*/
+text-align: justify;
+}
