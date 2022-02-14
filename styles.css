@@ -1,6 +1,24 @@
-#elem {
-width: 300px;
-border: 1px solid red;
-padding: 10px 20px 40px; /* сверху справа снизу слева*/
-text-align: justify;
+#elem1 {
+position: relative;
+left: 40px;
+top: 10px;
+width: 100px;
+height: 100px;
+background-color: #FF8888;
+}
+#elem2 {
+position: relative;
+left: 80px;
+top: -10px;
+width: 100px;
+height: 100px;
+background-color: #7E89EB;
+}
+#elem3 {
+position: relative;
+left: 160px;
+top: -30px;
+width: 100px;
+height: 100px;
+background-color: #4DEE99;
 }
