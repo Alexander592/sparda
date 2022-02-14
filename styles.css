@@ -3,15 +3,17 @@
 #elem1 {
 left: 30px;
 top: 30px;
-border: 1px solid red;
+background-color:#FF8888 ;
 }
 #elem2 {
 left: 60px;
 top: 60px;
-border: 1px solid blue;
+background-color:#7E89EB ;
+ 
 }
 #elem3 {
 left: 90px;
 top: 90px;
-border: 1px solid green;
+background-color: #4DEE99;
+ 
 }
