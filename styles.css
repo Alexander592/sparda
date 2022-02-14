@@ -1,11 +1,12 @@
 .parent {
-	display: inline-flex;
-	border: 1px solid red;
-	width:700px;
+display: inline-flex;
+padding: 10px;
+border: 1px solid red;
+width:700px;
 }
 
 .child {
-	width: 100px;
-	height: 50px;
-	border: 1px solid green;
+width: 100px;
+height: 50px;
+border: 1px solid green;
 }
