@@ -1,9 +1,11 @@
 .parent {
-display: flex;  
-border: 1px solid red;
+	display: inline-flex;
+	border: 1px solid red;
+	width:700px;
 }
+
 .child {
-width: 120px;
-height: 60px;
-border: 1px solid green;
+	width: 100px;
+	height: 50px;
+	border: 1px solid green;
 }
